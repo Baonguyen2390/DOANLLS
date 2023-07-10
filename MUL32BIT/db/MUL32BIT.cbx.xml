@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="MUL32BIT">
+		<CBX_INST_ENTRY INSTANCE_NAME="|MUL32BIT|DATAPATH:inst|3to1_Mux:inst28|BUSMUX:inst1|lpm_mux:$00000" CBX_FILE_NAME="mux_eoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|MUL32BIT|DATAPATH:inst|BUSMUX:inst18|lpm_mux:$00000" CBX_FILE_NAME="mux_eoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|MUL32BIT|DATAPATH:inst|SL:inst|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_44e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|MUL32BIT|DATAPATH:inst|lpm_compare0:inst4|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_5oi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|MUL32BIT|DATAPATH:inst|3to1_Mux:inst28|BUSMUX:inst|lpm_mux:$00000" CBX_FILE_NAME="mux_eoc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|MUL32BIT|DATAPATH:inst|BUSMUX:inst17|lpm_mux:$00000" CBX_FILE_NAME="mux_9oc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|MUL32BIT|DATAPATH:inst|SR:inst1|lpm_clshift:LPM_CLSHIFT_component" CBX_FILE_NAME="lpm_clshift_03f.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|MUL32BIT|DATAPATH:inst|lpm_add_sub0:inst6|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_ulh.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

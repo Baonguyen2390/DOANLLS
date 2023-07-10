@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\MUL32BIT\simulation\qsim
+vMUL32BIT
+Z1 IYKQ8l8aP3E;37DO;f5imK3
+Z2 V>Bha6]Hne0=LBd>h2hnJN2
+Z3 dD:\MUL32BIT\simulation\qsim
+Z4 w1688712949
+Z5 8MUL32BIT.vo
+Z6 FMUL32BIT.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|MUL32BIT.vo|
+Z9 o-work work -O0
+Z10 n@m@u@l32@b@i@t
+!i10b 1
+Z11 !s100 HY^GdHPfO=VQ4;lRJ;oU73
+!s85 0
+Z12 !s108 1688712950.079000
+Z13 !s107 MUL32BIT.vo|
+!s101 -O0
+vMUL32BIT_vlg_check_tst
+!i10b 1
+!s100 ;QTUk7bzm2=mzWL]6k@iI3
+IPEP>_mCM0=l46ZcVc;CmO2
+VG<WYSC^d?m;Vl^1zJ>H7i2
+R3
+Z14 w1688712948
+Z15 8MUL32BIT.vt
+Z16 FMUL32BIT.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1688712950.174000
+Z18 !s107 MUL32BIT.vt|
+Z19 !s90 -work|work|MUL32BIT.vt|
+!s101 -O0
+R9
+Z20 n@m@u@l32@b@i@t_vlg_check_tst
+vMUL32BIT_vlg_sample_tst
+!i10b 1
+Z21 !s100 CQ;ACC:05cSVgfnW4a09Q3
+Z22 InWDKC3YL@O^=n4YGLA^cN2
+Z23 V>Y_ko=Z4Dzg20K30H@;BB2
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z24 n@m@u@l32@b@i@t_vlg_sample_tst
+vMUL32BIT_vlg_vec_tst
+!i10b 1
+!s100 W6Cj`1?JGiJ9lJE>ROfZM1
+IEF3b2b[@Oz9iSlK1h[9E<1
+Z25 VKC;8mGoKM>ECFH1ch@HDI1
+R3
+R14
+R15
+R16
+Z26 L0 1291
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+Z27 n@m@u@l32@b@i@t_vlg_vec_tst
